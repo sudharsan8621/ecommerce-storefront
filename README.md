@@ -1,4 +1,4 @@
-Website: https://bright-blini-34b51d.netlify.app/products
+Website: https://bright-blini-34b51d.netlify.app/
 
 # React + Vite
 
